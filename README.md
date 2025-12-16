@@ -193,15 +193,4 @@ This project demonstrates:
 
 ---
 
-## 🏁 Conclusion
-
-This project demonstrates:
-
-* Strong understanding of NLP fundamentals
-* Practical deep learning skills
-* Clean software engineering practices
-* Readiness for advanced studies or applied research in AI
-
----
-
 ⭐ If you find this project useful, consider starring the repository!
