@@ -182,22 +182,14 @@ The `exploratory.ipynb` notebook includes:
 
 ---
 
-## 🎯 Use in CV / SOP / Motivation Letter
+## 🏁 Conclusion
 
-### 🔹 CV (Projects Section)
+This project demonstrates:
 
-**Sentiment Analysis using Deep Learning (LSTM / GRU)**
-
-* Developed an end‑to‑end NLP pipeline for IMDb review sentiment classification
-* Implemented LSTM and GRU models using TensorFlow/Keras
-* Compared deep learning models with Logistic Regression baseline
-* Achieved strong classification performance through sequence modeling
-
----
-
-### 🔹 SOP / Motivation Letter (Sample Line)
-
-> *“Through my project on IMDb sentiment analysis, I gained hands‑on experience in deep learning‑based NLP. By implementing LSTM and GRU models, I learned how sequential architectures overcome limitations of traditional machine learning approaches, particularly in capturing contextual dependencies in natural language.”*
+* Strong understanding of NLP fundamentals
+* Practical deep learning skills
+* Clean software engineering practices
+* Readiness for advanced studies or applied research in AI
 
 ---
 
