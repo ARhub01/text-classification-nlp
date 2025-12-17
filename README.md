@@ -193,4 +193,5 @@ This project demonstrates:
 
 ---
 
-⭐ If you find this project useful, consider starring the repository!
+⭐ This project is intended for academic demonstration and postgraduate applications.
+
